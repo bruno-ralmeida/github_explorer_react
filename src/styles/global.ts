@@ -1,9 +1,11 @@
 import { createGlobalStyle } from 'styled-components';
+import colors from './colors';
 
-import githubBackground from '../assets/bg.svg';
+import githubBackground from '../assets/github-background.svg';
 
 export default createGlobalStyle`
 @import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,700;1,400&display=swap');
+
   *{
     margin: 0;
     padding: 0;
@@ -12,7 +14,7 @@ export default createGlobalStyle`
   }
 
   body {
-    background: #F0F0F5 url(${githubBackground}) no-repeat 70% top;
+    background: ${colors.backgroundLight} url(${githubBackground}) no-repeat 70% top;
     -webkit-font-smoothing: antialiased;
   }
 
