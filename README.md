@@ -15,15 +15,14 @@ npm start
 npm run build
 ```
 
-> Projeto desenvolvido com base no repositório [app-ideas 📖](https://github.com/florinpop17/app-ideas) > [Projeto base - # GitHub Profiles 🔍](https://github.com/florinpop17/app-ideas/blob/master/Projects/2-Intermediate/GitHub-Profiles.md#user-stories)
+> Projeto desenvolvido com base no repositório [app-ideas 📑](https://github.com/florinpop17/app-ideas) > [Projeto base - # GitHub Profiles](https://github.com/florinpop17/app-ideas/blob/master/Projects/2-Intermediate/GitHub-Profiles.md#user-stories)
 
-### Histórias do usuário 🐱‍🏍
+### Histórias do usuário
 
-- [] O usuário pode inserir um nome de usuário
-- [] O usuário pode clicar no botão de pesquisa para recuperar informações
-- [] O usuário pode ver o avatar, nome de usuário, seguidores e contagem de repositórios de usuário pesquisado
-- [] O usuário pode ver os 4 principais repositórios do usuário pesquisado
-- [] O usuário deve receber um alerta se o nome de usuário não for válido
+- [x] O usuário pode inserir um nome de usuário
+- [x] O usuário pode clicar no botão de pesquisa para recuperar informações
+- [x] O usuário pode ver o avatar, nome de usuário e repositórios com descrição do usuário pesquisado
+- [x] O usuário deve receber um alerta se o nome de usuário não for válido
 
 ### Recursos bônus 🤯
 
