@@ -26,5 +26,5 @@ npm run build
 
 ### Recursos bônus 🤯
 
-- [] O usuário pode alternar o modo escuro/claro
-- [] O modo selecionado deve persistir quando o usuário voltar ao aplicativo novamente
+- [x] O usuário pode alternar o modo escuro/claro
+- [x] O modo selecionado deve persistir quando o usuário voltar ao aplicativo novamente

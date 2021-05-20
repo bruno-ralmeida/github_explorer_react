@@ -1,4 +1,4 @@
-import styled, { css } from 'styled-components';
+import styled, { css, createGlobalStyle } from 'styled-components';
 import { shade } from 'polished';
 
 import colors from '../../styles/colors';
@@ -6,6 +6,8 @@ import colors from '../../styles/colors';
 interface FormProps {
   hasError: boolean;
 }
+
+export default createGlobalStyle``;
 
 export const Title = styled.h1`
   color: ${colors.darkGray};
